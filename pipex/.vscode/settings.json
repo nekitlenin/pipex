@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"__config": "c",
+		"__functional_03": "c",
+		"__functional_base": "c",
+		"array": "c",
+		"bitset": "c",
+		"chrono": "c",
+		"exception": "c",
+		"functional": "c",
+		"iterator": "c",
+		"string_view": "c",
+		"tuple": "c",
+		"libft.h": "c",
+		"pipex.h": "c",
+		"fcntl.h": "c",
+		"stdlib.h": "c"
+	}
+}
